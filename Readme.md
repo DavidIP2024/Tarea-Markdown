@@ -13,7 +13,7 @@ _Hoy_
 
 <ins>Hoy</ins>
 
-[Buscador](htt://www.google.com)
+[Buscador](http://www.google.com)
 
 ![Bicho](Imagen/Bicho.jpg)
 
