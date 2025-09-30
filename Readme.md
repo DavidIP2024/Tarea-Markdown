@@ -12,3 +12,5 @@ _Hoy_
 <sub>Hoy</sub>
 
 <ins>Hoy</ins>
+
+[Buscador](htt://www.google.com)
